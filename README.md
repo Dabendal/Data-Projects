@@ -2,16 +2,25 @@
 
 Welcome to my GitHub repository containing three data analysis projects! Each project explores different datasets and provides insights through data visualization and analysis.
 
-## 1. World Cup Analysis
+## 1. North east Canada Demographic Analysis (Based on raw Data from Statistics Canada )
 
-Dive into the excitement of the World Cup with this project that compares outcomes of completed games. Uncover patterns, trends, and statistics related to different matches, teams, and tournaments. Whether you're a football enthusiast or a data lover, this analysis provides a unique perspective on the world's most celebrated football event.
+Project Title: Greater Sudbury Inclusion Benchmarking
+Description: This project aims to establish demographic benchmarks for three key inclusion groups within the Greater Sudbury area. By analyzing precise demographic data, this project will provide valuable insights about the population composition in the Greater Sudbury Area.
 
-## 2. Music Analysis
+## 2. World Cup Analysis
 
-Explore the world of music through data! This project analyzes different songs and their attributes, considering factors like genre, lyrics, and musical features. Gain insights into patterns within the music industry and discover how various attributes contribute to a song's popularity or uniqueness.
+Project Title: World Cup Analysis
+Description: This project provides a comprehensive analysis of historical World Cup data. It allows users to explore trends, patterns, and statistics related to various aspects of the competition, including matches, teams, and tournaments.
 
-## 3. Esports Data Analysis
+## 3. Music Analysis
 
-Explore the world of esports with this analysis that delves into the financial landscape of various games. Discover the relationship between earnings, the number of tournaments, game genres, and other attributes. Gain insights into the esports industry and the factors influencing the success of different games.
+Project Title: Music Analysis
+Description: This project focuses on analyzing music data related to different songs and their features. It explores how various attributes, such as genre, lyrics, and musical characteristics, influence a song's popularity and uniqueness, providing insights into the music industry.
 
-Feel free to explore each project's folder for in-depth analysis, code, and visualizations. Happy exploring!
+## 4. Esports Data Analysis
+
+Project Title: Esports Data Analysis
+Description: This project delves into the financial landscape of esports by analyzing data from various games. It investigates the relationships between factors like earnings, tournament participation, game genres, and other attributes, offering insights into the esports industry's success factors.
+
+
+Feel free to explore each project's file for analysis, code, and visualizations. Happy exploring!
