@@ -5,7 +5,9 @@ Welcome to my GitHub repository containing three data analysis projects! Each pr
 ## 1. North east Canada Demographic Analysis (Based on raw Data from Statistics Canada )
 
 Project Title: Greater Sudbury Inclusion Benchmarking
-Description: This project aims to establish demographic benchmarks for three key inclusion groups within the Greater Sudbury area. By analyzing precise demographic data, this project will provide valuable insights about the population composition in the Greater Sudbury Area.
+Description: This project aims to establish demographic benchmarks for three key inclusion groups within the Greater Sudbury area. By analyzing precise demographic data, this project will provide valuable insights about the population composition in the Greater Sudbury Area. 
+
+direct link : https://github.com/Dabendal/Data-Projects/blob/main/Sudbury_inclusivity%20analysis.ipynb
 
 ## 2. World Cup Analysis
 
